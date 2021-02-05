@@ -1,5 +1,5 @@
 Contributing
-We encourage Everyone to contribute to Ruby on Rails! Please check out the Contributing to Ruby on Rails guide for guidelines about how to proceed. Join us!
+We encourage you to contribute to Ruby on Rails! Please check out the Contributing to Ruby on Rails guide for guidelines about how to proceed. Join us!
 
 Trying to report a possible security vulnerability in Rails? Please check out our security policy for guidelines about how to proceed.
 
